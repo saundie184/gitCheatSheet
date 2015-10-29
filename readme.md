@@ -34,8 +34,8 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git branch` - __Fill Me Out__
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - __Switch branches or restore working tree files__
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - __Join two or more development histories together__
