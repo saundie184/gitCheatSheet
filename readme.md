@@ -19,12 +19,12 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git log --oneline --decorate --color --graph --all` - Shortcuts for displaying log formats
 
-`$ git log -p [filename]` __Fill Me Out__
+`$ git log -p [filename]` - Shows git log with file contents visible
 
 #### Stage files to commit
-`$ git add <filename>` - __Fill Me Out__
+`$ git add <filename>` - Add file contents to the index
 
-`$ git add -A` - __Fill Me Out__
+`$ git add -A` - Adds all files' contents to the index
 
 #### Commit changes in staged files
 `$ git commit -m "<commit message>"` - __Fill Me Out__
